@@ -1,6 +1,6 @@
 'use strict';
 
-alert('Welcome to GUESS THE NUMBER GAME!');
+alert('Welcome to GUESS THE NUMBER GAME! \n Enjoy the GAME!');
 let secretNumber = Math.trunc(Math.random() * 20) + 1;
 let score = 20;
 let highscore = 0;
